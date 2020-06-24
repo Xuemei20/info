@@ -8,7 +8,9 @@ Email: chenxuemay@hotmail.com
 ```
 
 # Research interests
-solar forecasting, satellite-based solar irradiance deriving, photovoltaic simulating and optimizing
+solar forecasting
+satellite-based solar irradiance deriving
+photovoltaic simulating and optimizing
 
 # Education and academic experience
 September 2016 – present	Ph.D. candidate in School of Mechanical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai, China
@@ -18,7 +20,9 @@ April 2019 – August 2019	Visiting scholar in Department of Climate and Space S
 February 2012 – July 2012	Exchange student in College of Engineering, National Chung Cheng University (CCU), Taiwan, China
 
 # Hobbies 
-Music: Guqin (古琴, traditional instrument), Xiao (箫, bamboo flute), and so on. Sports: badminton, ping-pong. Traveling.
+Music: Guqin (古琴, traditional instrument), Xiao (箫, bamboo flute), and so on. 
+Sports: badminton, ping-pong. 
+Traveling.
 
 # Projects
 [2] September 2017 ~ August 2019, "A weather-process and machine learning combined approach to improve solar forecast for PV power generation",field: data science in renewable energies. Collaborative project between Shanghai Jiao Tong University and University of Michigan in 2017.
