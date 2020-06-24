@@ -31,8 +31,8 @@ February 2012 – July 2012	Exchange student in College of Engineering, National
 ```
 
 # Hobbies 
-Music: Guqin (古琴, traditional instrument), Xiao (箫, bamboo flute), and so on. \\
-Sports: badminton, ping-pong. \\
+Music: Guqin (古琴, traditional instrument), Xiao (箫, bamboo flute), and so on.   
+Sports: badminton, ping-pong.   
 Traveling.
 
 
