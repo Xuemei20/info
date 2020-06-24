@@ -1,11 +1,18 @@
 ## Xuemei Chen
-```markdown
-Ph.D. candidate
-Department: School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China
-Institution: Institute of Refrigeration and Cryogenics
-Supervisor: Ruzhu Wang (rzwang@sjtu.edu.cn)
-Email: chenxuemay@hotmail.com 
-```
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Ph.D. candidate</h1>
+      <p><b>Email: chenxuemay@hotmail.com</b></p>
+      <p><b>Department: School of Mechanical Engineering, Shanghai Jiao Tong University</b></p>
+      <p><b>Institution: Institute of Refrigeration and Cryogenics</b></p>
+      <p><b>Supervisor: Ruzhu Wang</b></p>
+    </td>
+    <td width="25%">
+      <img src="https://github.com/Xuemei20/sjtu/blob/master/764.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 # Research interests
 ```markdown
