@@ -22,14 +22,14 @@ photovoltaic simulating and optimizing
 # Education and academic experience
 September 2016 – present 	
 Ph.D. candidate in School of Mechanical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai, China  
-September 2014 – June 2016	 
+September 2014 – June 2016 (上海交通大学机械与动力工程学院)	 
 Master in School of Mechanical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai, China  
-September 2010 – June 2014	 
+September 2010 – June 2014 (上海交通大学机械与动力工程学院)	 
 Bachelor in School of Engineering, Sun Yat-Sen University (SYSU), Guangzhou, China  
-April 2019 – August 2019	 
+April 2019 – August 2019 (中山大学工学院)	 
 Visiting scholar in Department of Climate and Space Sciences and Engineering, University of Michigan (UM), Ann Arbor, USA  
 February 2012 – July 2012	 
-Exchange student in College of Engineering, National Chung Cheng University (CCU), Taiwan, China  
+Exchange student in College of Engineering, National Chung Cheng University (CCU), Taiwan, China (中正大学工学院)  
 
 # Hobbies 
 Music: Guqin (古琴, traditional instrument), Xiao (箫, bamboo flute), and so on.  
