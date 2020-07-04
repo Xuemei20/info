@@ -20,15 +20,15 @@ satellite-based solar irradiance deriving
 photovoltaic simulating and optimizing  
 
 # Education and academic experience
-September 2016 – present  
+September 2016 – present:  
 Ph.D. candidate in School of Mechanical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai, China (上海交通大学机械与动力工程学院)  
-September 2014 – June 2016  
+September 2014 – June 2016:  
 Master in School of Mechanical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai, China (上海交通大学机械与动力工程学院)  
-September 2010 – June 2014  
+September 2010 – June 2014:  
 Bachelor in School of Engineering, Sun Yat-Sen University (SYSU), Guangzhou, China (中山大学工学院)    
-April 2019 – August 2019  
+April 2019 – August 2019:  
 Visiting scholar in Department of Climate and Space Sciences and Engineering, University of Michigan (UM), Ann Arbor, USA  
-February 2012 – July 2012  
+February 2012 – July 2012:  
 Exchange student in College of Engineering, National Chung Cheng University (CCU), Taiwan, China (中正大学工学院)  
 
 # Hobbies 
