@@ -4,9 +4,9 @@
     <td width="75%">
       <h1>Ph.D. candidate</h1>
       <p><b>Email: chenxuemay@hotmail.com</b></p>
-      <p><b>Department: School of Mechanical Engineering, Shanghai Jiao Tong University (http://me.sjtu.edu.cn/)</b></p>
-      <p><b>Institution: Institute of Refrigeration and Cryogenics (http://www.sjtuirc.sjtu.edu.cn/)</b></p>
-      <p><b>Supervisor: Ruzhu Wang</b></p>
+      <p><b>Department: School of Mechanical Engineering, Shanghai Jiao Tong University (上海交通大学机械与动力工程学院) (http://me.sjtu.edu.cn/)</b></p>
+      <p><b>Institution: Institute of Refrigeration and Cryogenics (制冷与低温工程研究所) (http://www.sjtuirc.sjtu.edu.cn/)</b></p>
+      <p><b>Supervisor: Ruzhu Wang (王如竹)</b></p>
     </td>
     <td width="25%">
       <img src="./764.jpg" width="100%">
