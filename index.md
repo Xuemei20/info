@@ -16,7 +16,7 @@
 
 # Research interests
 solar forecasting  
-satellite-based solar irradiance deriving  
+satellite-based solar irradiance estimating  
 photovoltaic simulating and optimizing  
 
 # Education and academic experience
@@ -32,8 +32,8 @@ February 2012 – July 2012:
 Exchange student in College of Engineering, National Chung Cheng University (CCU), Taiwan, China (中正大学工学院)  
 
 # Hobbies 
-Music: Guqin (古琴, traditional instrument), Xiao (箫, bamboo flute), and so on.  
-Sports: badminton, ping-pong.  
+Music: Guqin (古琴, like to play 《流水》《忆故人》《平沙落雁》), Xiao (箫, bamboo flute).  
+Sports: badminton, ping-pong, swimming.  
 Traveling.  
 
 # Projects
@@ -42,19 +42,28 @@ Traveling.
 
 # Publications
 ## a. Peer-reviewed Journal Publications
-[6] X. M. Chen, Y. Li, and R. Z. Wang, "Performance study of affine transformation and the advanced clear-sky model to improve intra-day solar forecasts," Journal of Renewable and Sustainable Energy, 2020. (Under review)  
-[5] X. M. Chen, Y. Li, B. Y. Zhao, and R. Z. Wang, "Are the optimum angles of photovoltaic systems so important?" Renewable and Sustainable Energy Reviews, vol. 124, p. 109791, 2020.  
-[4] Y. Li, X. Chen, and M. Yang, "Optical flow based solar irradiance forecasting in satellite images," presented at the 2019 IEEE International Conference on Real-time Computing and Robotics (RCAR), Irkutsk, Russia, 2019.  
+[5] X.M. Chen, Y. Li, and R.Z. Wang, "Performance study of affine transformation and the advanced clear-sky model to improve intra-day solar forecasts," Journal of Renewable and Sustainable Energy, 2020, 12: 043703.  
+[4] X.M. Chen, Y. Li, B.Y. Zhao, and R.Z. Wang, "Are the optimum angles of photovoltaic systems so important?" Renewable and Sustainable Energy Reviews, vol. 124, p. 109791, 2020.  
 [3] X. M. Chen, Y. Li, Z. G. Zhao, T. Ma, and R. Z. Wang, "General method to obtain recommended tilt and azimuth angles for photovoltaic systems worldwide," Solar Energy, vol. 172, pp. 46-57, 2018.  
-[2] T. S. Ge, R. Z. Wang, Z. Y. Xu, Q. W. Pan, S. Du, X. M. Chen, et al., "Solar heating and cooling: Present and future development," Renewable Energy, 2018.  
-[1] Y. Li, X. M. Chen, B. Y. Zhao, Z. G. Zhao, and R. Z. Wang, "Development of a PV performance model for power output simulation at minutely resolution," Renewable Energy, vol. 111, pp. 732-739, 2017.  
+[2] T.S. Ge, R.Z. Wang, Z.Y. Xu, Q.W. Pan, S. Du, X.M. Chen, T. Ma, X.N. Wu, X.L. Sun, J.F. Chen, "Solar heating and cooling: Present and future development," Renewable Energy, 2018.  
+[1] Y. Li, X.M. Chen, B.Y. Zhao, Z.G. Zhao, and R.Z. Wang, "Development of a PV performance model for power output simulation at minutely resolution," Renewable Energy, vol. 111, pp. 732-739, 2017.  
 ## b. Conference Papers
-[2] X. Chen, Z. Zhao, Y. Li, R. Wang, and M. Huang, "Simulating recommended tilt and azimuth angles for photovoltaic-powered air conditioners by clear-sky irradiance model," presented at the 6th International Conference on Cryogenics and Refrigeration, Shanghai Jiao Tong University, Shanghai, China, 2018.  
-[1] X. Chen, Y. Li, B. Zhao, and R. Wang, "Simulating the power output and efficiency of beam and diffuse radiation received by photovoltaic modules," presented at the 5th International Conference on Nuclear and Renewable Energy Resources, Hefei, Anhui, China, 2016.  
+[3] Y.Y. Li, X.M. Chen, and M. Yang, "Optical flow based solar irradiance forecasting in satellite images," presented at the 2019 IEEE International Conference on Real-time Computing and Robotics (RCAR), Irkutsk, Russia, 2019.  
+[2] X.M Chen, Z.Y. Zhao, Y. Li, R.Z. Wang, and M. Huang, "Simulating recommended tilt and azimuth angles for photovoltaic-powered air conditioners by clear-sky irradiance model," presented at the 6th International Conference on Cryogenics and Refrigeration, Shanghai Jiao Tong University, Shanghai, China, 2018.  
+[1] X.M. Chen, Y. Li, B.Y. Zhao, and R.Z. Wang, "Simulating the power output and efficiency of beam and diffuse radiation received by photovoltaic modules," presented at the 5th International Conference on Nuclear and Renewable Energy Resources, Hefei, Anhui, China, 2016.  
 ## c. Peer-reviewed Book Chapter
-[1] B. Li, X. Chen, X. Cheng, X. Zhai, and X. Zhao, "Solar Systems for Urban Building Applications - Heating, Cooling, Hot Water, and Power Supply," in Advanced energy efficiency technologies for solar heating, cooling and power generation, X. Zhao and X. Ma, Eds., Cham, Switzerland: Springer International Publishing, 2019.  
+[1] B. Li, X.M. Chen, X.W. Cheng, X.Q. Zhai, and X.D. Zhao, "Solar Systems for Urban Building Applications - Heating, Cooling, Hot Water, and Power Supply," in Advanced energy efficiency technologies for solar heating, cooling and power generation, X.D. Zhao and X.L. Ma, Eds., Cham, Switzerland: Springer International Publishing, 2019.  
 ## d. Peer-reviewed Journal Publications in Chinese
 [2] 赵柏扬, 李勇, 赵志刚, 陈雪梅, 王如竹, "光伏直驱离心式水冷冷水机组性能测试与分析," 化工学报, vol. 67, pp. 284-290, 2016.  
 [1] 陈雪梅, 王如竹, 李勇, "太阳能光伏空调研究及进展," 制冷学报, vol. 37, pp. 1-9, 2016.  
 ## e. Patents
 [1] 陈雪梅, 黄猛, 刘霞, 李勇, 赵志刚, and 王如竹, "一种计算光伏组件的能量区间的方法," 中国 Patent, 2019.08.02, 2019.  
+
+# Awards
+2019.1  上海交通大学优秀博士生海外访学资助计划  
+2018.4  上海交通大学博阳新能源奖学金  
+2015.8  第八届全国大学生节能减排社会实践与科技竞赛三等奖  
+2010-2014  本科期间获得两次中山大学奖学基金优秀学生二等奖学金
+2012    中山大学第32界“五四杯”四校区排球总决赛女子组第八名
+2009    全国高中生化学竞赛一等奖
+
