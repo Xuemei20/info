@@ -9,7 +9,7 @@
       <p><b>Supervisor: Ruzhu Wang (王如竹)</b></p>
     </td>
     <td width="25%">
-      <img src="./764.jpg" width="100%">
+      <img src="./20200903.jpg" width="100%">
     </td>
   </tr>
 </table>
